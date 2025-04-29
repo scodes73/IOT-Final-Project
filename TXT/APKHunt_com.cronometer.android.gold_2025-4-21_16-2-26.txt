@@ -1,0 +1,28 @@
+<html><head><title>APKHunt Report</title></head><body>
+<h1>APKHunt Report</h1>
+<pre>
+
+      _ _   __ __  _   __  _   _                _   
+     / _ \ | _ _ \| | / / | | | |              | |  
+    / /_\ \| |_/ /| |/ /  | |_| | _   _   _ _  | |_ 
+    |  _  ||  __/ |    \  |  _  || | | |/  _  \|  _|
+    | | | || |    | |\  \ | | | || |_| || | | || |_ 
+    \_| |_/\_|    \_| \_/ \_| |_/\ _ _ /|_| |_|\_ _|
+    ------------------------------------------------
+    OWASP MASVS Static Analyzer                                
+        
+[+] APKHunt - a comprehensive static code analysis tool for Android apps
+[+] Based on: OWASP MASVS - https://mobile-security.gitbook.io/masvs/
+[+] Author: Sumit Kalaria & Mrunal Chawda
+[*] Connect: Please do write to us for any suggestions/feedback.
+
+[+] Log-file path: /home/sap/Downloads/Dev/apk-download/apks/done/todo/APKHunt_com.cronometer.android.gold_2025-4-21_16-2-26.txt
+
+[+] HTML-file path: /home/sap/Downloads/Dev/apk-download/apks/done/todo/APKHunt_com.cronometer.android.gold_2025-4-21_16-2-26.html
+</pre></body></html>
+
+[+] Scan has been started at: 2025-04-21 16:02:26.916370156 -0400 EDT m=+0.002445001
+[+] APK Base: com.cronometer.android.gold.apk
+[+] APK Size: 167.31543 MB
+[+] APK Directory: /home/sap/Downloads/Dev/apk-download/apks/done/todo/
+[!] Only Alphanumeric string with/without underscore/dash is accepted as APK file-name. Request you to rename the APK file.
