@@ -118,7 +118,3 @@ Parser/combined_report.xlsx
 
 This repository is intended for **research purposes only**. All data was collected from **public sources**. Use responsibly and in accordance with applicable laws.
 
-```
-
-Let me know if you'd like me to generate a matching `requirements.txt`, a license file, or badges for GitHub display.
-```
