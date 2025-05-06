@@ -1,6 +1,3 @@
-Here is the `README.md` content in **Markdown format**, ready to paste into your GitHub repo:
-
-
 # 🛡️ Static Security Analysis of Top-Grossing Health & Fitness Android Apps with IoT Connectivity (2025)
 
 This repository contains the full workflow, scripts, and data used for a static security analysis of the top 100 grossing Health & Fitness apps on the U.S. Play Store (as of April 2025). The project evaluates apps against categories from the OWASP MASVS framework using APKHunt.
