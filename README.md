@@ -57,7 +57,7 @@ bash Scripts/xargs-code.sh
 This uses underlying Scripts/apkpure-dl.sh 
 
 
-### 5. Converting xapk to apk
+### 5. Converting xapk to apk (optional if you have .xapk files)
 Run this in your folder where you have .xapk files, uses xapk-to-apk.py from https://github.com/LuigiVampa92/xapk-to-apk
 ```bash
 for i in *.xapk; do python xapk-to-apk.py $i;done
