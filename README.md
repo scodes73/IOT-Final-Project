@@ -107,7 +107,7 @@ Parser/combined_report.xlsx
 
 * [OWASP MASVS](https://owasp.org/www-project-mobile-security/)
 
-* [APKPure](https://apkpure.com/), [APKMirror](https://apkmirror.com/), [AppFigures](https://appfiguers.com/)
+* [APKPure](https://apkpure.com/), [APKMirror](https://apkmirror.com/), [AppFigures](https://appfigures.com/)
 
 * https://github.com/LuigiVampa92/xapk-to-apk
 
